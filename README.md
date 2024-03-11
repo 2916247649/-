@@ -57,4 +57,7 @@ palserver-rcon-monitored.bat
 按下Ctrl+C，然后输入Y， 回车确认
 ```
 
+#个人博客
+https://www.xinmangy.cn
+
 
